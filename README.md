@@ -9,6 +9,9 @@ This Game can be run in the command line.<br>
 This game is a good practice for the intermediate level<br>
 and it helps beginners to understand the concept of object oriented programming languages<br>
 
+Please, note that I am the one who invented and came up with the idea behind this game,<br> 
+so it is not a real, famous game. Rather it is just a very good practice to understand<br>
+the concept of object oriented programming languages.<br>
 
 ## Requirements:
 
