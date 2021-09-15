@@ -14,3 +14,13 @@ and it helps beginners to understand the concept of object oriented programming 
 
 - Basic java knowledge
 - java compiler
+<br>
+
+# Contributors:
+- Khaled Badran (Programming Gym) => 📧E-mail: <gym4programming@gmail.com>
+<br>
+
+# License & Copyright:
+© Khaled Badran (Programming Gym)
+<br>
+Licensed under the [MIT License](LICENSE)
