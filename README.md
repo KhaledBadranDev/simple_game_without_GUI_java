@@ -17,7 +17,7 @@ the concept of object oriented programming languages.<br>
 
 - Basic java knowledge
 - java compiler
-<<<<<<< HEAD
+
 <br>
 
 # Contributors:
@@ -28,5 +28,3 @@ the concept of object oriented programming languages.<br>
 © Khaled Badran (Programming Gym)
 <br>
 Licensed under the [MIT License](LICENSE)
-=======
->>>>>>> 3377bbbcf8f63a822e8fa6a715c3619c708e1591
